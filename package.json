@@ -1,0 +1,41 @@
+{
+  "name": "onedionys-responsive-design-helpers",
+  "version": "1.0.0",
+  "description": "One Dionys (Responsive Design Helpers) - Functions or classes to facilitate the development of responsive design in web applications.",
+  "main": "src/responsiveDesignHelpers.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-responsive-design-helpers.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "responsive-design-helpers"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-responsive-design-helpers/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-responsive-design-helpers#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-css-class-manipulation": "^1.0.0",
+    "onedionys-error-handling-utilities": "^1.0.0",
+    "onedionys-file-upload-component": "^1.0.0",
+    "onedionys-scrolling-utilities": "^1.0.0",
+    "onedionys-text-parsing-utilities": "^1.0.0"
+  }
+}
