@@ -1,6 +1,6 @@
 {
   "name": "onedionys-responsive-design-helpers",
-  "version": "1.0.1",
+  "version": "4.0.0",
   "description": "One Dionys (Responsive Design Helpers) - Functions or classes to facilitate the development of responsive design in web applications.",
   "main": "src/responsiveDesignHelpers.js",
   "directories": {
